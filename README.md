@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Vue
 - 🌱 I’m currently learning Python and Vue
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: xyj.kylin@qq.com
 
 <!---
 xuelingfei/xuelingfei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
