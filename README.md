@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xuelingfei
-- 👀 I’m interested in Python and Vue
-- 🌱 I’m currently learning Python and Vue
+- 👀 I’m interested in Java, Python and Vue
+- 🌱 I’m currently learning Java, Python and Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: xyj.kylin@qq.com
 
